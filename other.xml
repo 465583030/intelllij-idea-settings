@@ -23,22 +23,11 @@
       <toolchain name="Default" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
-  <component name="PyTestFrameworkService">
-    <option name="SDK_TO_PYTEST">
-      <map>
-        <entry key="/usr/bin/python3.7" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_NOSETEST">
-      <map>
-        <entry key="/usr/bin/python3.7" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_TRIALTEST">
-      <map>
-        <entry key="/usr/bin/python3.7" value="false" />
-      </map>
-    </option>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
