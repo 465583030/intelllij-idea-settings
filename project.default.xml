@@ -6,6 +6,10 @@
           <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
         </configurations>
       </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
       <component name="ProjectCodeStyleConfiguration">
         <code_scheme name="Project" version="173">
           <Objective-C-extensions>
