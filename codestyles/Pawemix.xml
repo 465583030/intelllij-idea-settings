@@ -26,19 +26,8 @@
       <emptyLine />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
-  <option name="SOFT_MARGINS" value="60,80" />
-  <CssCodeStyleSettings>
-    <option name="HEX_COLOR_LOWER_CASE" value="true" />
-  </CssCodeStyleSettings>
-  <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
-    <option name="HTML_ENFORCE_QUOTES" value="true" />
-  </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
-    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
-  </JSCodeStyleSettings>
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="SOFT_MARGINS" value="60" />
   <JavaCodeStyleSettings>
     <option name="SPACE_AFTER_CLOSING_ANGLE_BRACKET_IN_TYPE_ARGUMENT" value="true" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -70,11 +59,11 @@
     </option>
   </JavaCodeStyleSettings>
   <Objective-C>
+    <option name="SPACE_WITHIN_TEMPLATE_DOUBLE_GT" value="false" />
     <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
-    <option name="DISCHARGED_SHORT_TERNARY_OPERATOR" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <file>
@@ -135,24 +124,15 @@
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <option name="RIGHT_MARGIN" value="80" />
-    <option name="KEEP_LINE_BREAKS" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
-    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
-    <option name="WRAP_COMMENTS" value="true" />
-    <option name="SOFT_MARGINS" value="60" />
-  </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
+    <option name="SPACE_WITHIN_BRACES" value="false" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="false" />
     <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_QUEST" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
