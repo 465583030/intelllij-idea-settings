@@ -1,15 +1,16 @@
 <scheme name="Pawemix" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-04-08T14:35:51</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-04-29T17:51:28</property>
+    <property name="modified">2018-11-20T23:15:52</property>
     <property name="originalScheme">Pawemix</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="Nimbus Mono PS" />
   <colors>
     <option name="CARET_COLOR" value="e2f1f8" />
     <option name="CARET_ROW_COLOR" value="263238" />
@@ -45,8 +46,6 @@
     <option name="SELECTION_FOREGROUND" value="1b0000" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="b71c1c" />
@@ -312,7 +311,6 @@
         <option name="BACKGROUND" value="a12" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="e53935" />
@@ -324,8 +322,6 @@
         <option name="BACKGROUND" value="a12" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e53935" />
@@ -369,7 +365,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e2f1f8" />
