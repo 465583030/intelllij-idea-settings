@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="ypp" type="ObjectiveC" />
       <mapping ext="l" type="PLAIN_TEXT" />
+      <removed_mapping ext="ypp" approved="true" type="ObjectiveC" />
     </extensionMap>
   </component>
 </application>
