@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="compile" type="PLAIN_TEXT" />
       <mapping ext="ypp" type="PLAIN_TEXT" />
       <mapping ext="l" type="PLAIN_TEXT" />
       <removed_mapping ext="ypp" approved="true" type="ObjectiveC" />
